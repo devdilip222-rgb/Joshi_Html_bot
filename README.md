@@ -13,7 +13,7 @@
 
 ## 📦 Deploy via Buttons
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/khushboo_joshi215/html_unzip_text_bot)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/devdilip222-rgb/joshi_Html_bot)  
 
 
 
